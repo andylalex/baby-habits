@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "宝宝好习惯 entry 模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "宝宝好习惯主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "宝宝好习惯"
+    },
+    {
+      "name": "permission_reminder_reason",
+      "value": "用于早晚打卡提醒，由系统代理触发，应用未打开时也能提醒"
+    },
+    {
+      "name": "form_today_name",
+      "value": "今日打卡"
+    },
+    {
+      "name": "form_today_desc",
+      "value": "桌面看今日任务与星星余额，点一下就打卡"
+    }
+  ]
+}

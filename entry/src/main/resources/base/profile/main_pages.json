@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/KidProfile",
+    "pages/KidWallet",
+    "pages/KidLedger",
+    "pages/KidBadges",
+    "pages/KidTimeline",
+    "pages/KidMilestones",
+    "pages/ParentHome",
+    "pages/ParentTasks",
+    "pages/ParentRewards",
+    "pages/ParentAdvice",
+    "pages/ParentStats",
+    "pages/ParentMilestones"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFF6E8"
+    },
+    {
+      "name": "brand_orange",
+      "value": "#FF8A3D"
+    },
+    {
+      "name": "star_yellow",
+      "value": "#FFC93C"
+    },
+    {
+      "name": "done_green",
+      "value": "#58C24A"
+    },
+    {
+      "name": "review_blue",
+      "value": "#5FA8FF"
+    },
+    {
+      "name": "cream_background",
+      "value": "#FFF6E8"
+    },
+    {
+      "name": "cocoa_text",
+      "value": "#6B4A2F"
+    },
+    {
+      "name": "mist_gray",
+      "value": "#C9CDD4"
+    },
+    {
+      "name": "soft_yellow",
+      "value": "#FFF2D0"
+    },
+    {
+      "name": "soft_blue",
+      "value": "#EAF4FF"
+    },
+    {
+      "name": "soft_pink",
+      "value": "#FFE3EA"
+    },
+    {
+      "name": "danger",
+      "value": "#FF5A5A"
+    },
+    {
+      "name": "hairline",
+      "value": "#D8CBB8"
+    }
+  ]
+}

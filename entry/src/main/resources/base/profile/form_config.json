@@ -1,0 +1,26 @@
+{
+  "forms": [
+    {
+      "name": "today_card",
+      "displayName": "$string:form_today_name",
+      "description": "$string:form_today_desc",
+      "src": "./ets/formability/pages/TodayCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 360,
+        "autoDesignWidth": true
+      },
+      "colorMode": "auto",
+      "isDynamic": true,
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "06:00",
+      "updateDuration": 0,
+      "defaultDimension": "2*2",
+      "supportDimensions": [
+        "2*2",
+        "2*4"
+      ]
+    }
+  ]
+}
